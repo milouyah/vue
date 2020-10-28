@@ -1,7 +1,9 @@
 # Vue study project
 
+## [@fullstackjs/mail](https://www.npmjs.com/package/@fullstackjs/mail)
+
 
 ## The subjects to study more
-* @fullstackjs/mail
+
 * @tailwind
 * import Vuex from 'vuex'
