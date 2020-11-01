@@ -19,8 +19,7 @@
     </v-list>
   </v-navigation-drawer>
 </template>
-
-<script lang="ts">
+<script>
 export default {
   name: 'DrawerMenu',
   props: {

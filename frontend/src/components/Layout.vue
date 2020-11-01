@@ -11,7 +11,7 @@
     </v-content>
   </v-app>
 </template>
-<script lang="ts">
+<script>
 import TopBar from './TopBar.vue';
 import DrawerMenu from './DrawerMenu.vue';
 
